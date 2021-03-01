@@ -36,7 +36,7 @@
     "lodash": "^4.17.15",
     "lodash-es": "^4.17.15",
     "page": "^1.10.1",
-    "three": "^0.96.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.1",
